@@ -4,4 +4,6 @@ Welcome to kitchen
 
 kheer 
 pasta
+Beans
+Pizza
 
